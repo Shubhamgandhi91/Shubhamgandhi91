@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shubham Gandhi
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web and Software Development.
 - 🌱 I’m currently learning JAVA and Web Development 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me @nietshubham@gmail.com
