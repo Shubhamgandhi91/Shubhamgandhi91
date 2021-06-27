@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shubhamgandhi91
+- 👋 Hi, I’m Shubham Gandhi
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning JAVA and Web Development 
 - 💞️ I’m looking to collaborate on 
